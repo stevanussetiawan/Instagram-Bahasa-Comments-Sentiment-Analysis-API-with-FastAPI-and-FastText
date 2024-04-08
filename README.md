@@ -24,6 +24,7 @@ The API will return the sentiment classification:
 		"Threshold": float
 	}
 }
+```
 
 Example:
 
