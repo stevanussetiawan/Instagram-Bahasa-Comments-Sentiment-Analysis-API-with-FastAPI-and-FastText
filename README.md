@@ -13,3 +13,18 @@ Send a POST request to /predict with a JSON body containing the Instagram commen
 }
 ```
 
+The API will return the sentiment classification:
+
+```JSON
+{
+	"Status": bool,
+	"Msg": str,
+	"Result_AI": {
+		"Prediction_AI": str,
+		"Threshold": float
+	}
+}
+
+Example:
+
+![Alt text](images/capture.jpg)
