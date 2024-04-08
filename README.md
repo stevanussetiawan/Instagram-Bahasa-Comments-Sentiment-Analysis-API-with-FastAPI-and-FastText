@@ -28,4 +28,4 @@ The API will return the sentiment classification:
 
 Example:
 
-![Alt text](images/capture.jpg)
+![Alt text](images/Capture.PNG)
