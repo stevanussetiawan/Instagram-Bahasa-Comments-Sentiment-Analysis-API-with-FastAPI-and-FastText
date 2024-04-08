@@ -1,0 +1,1 @@
+# fastAPI-BinaryClass-Fasttext
