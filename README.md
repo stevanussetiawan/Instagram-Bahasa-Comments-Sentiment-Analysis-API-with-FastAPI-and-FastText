@@ -5,8 +5,9 @@
 
 <h2> API Usage </h2>
 Send a POST request to /predict with a JSON body containing the Instagram comment to be analyzed:
-```json
+```
 {
 	"id_ig": int,
 	"comment_ig": str
 }
+'''
